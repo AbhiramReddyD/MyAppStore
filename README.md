@@ -84,6 +84,8 @@ Basic apps I made while learning Kotlin each app made using new concept I learnt
 
 [<img src="https://github.com/AbhiramReddyD/Apps-In-Kotlin/blob/master/images/counter.jpg" height="600" width="300">](https://github.com/AbhiramReddyD/Apps-In-Kotlin/tree/master/HelloKotlin) 
 
+***
+
 ## 3. App with Flutter
 ## Flutter Submission Under 5KB
 I'm a beginner in Flutter and I simply made a Gmail clone
@@ -94,18 +96,4 @@ This was my Submission for the Flutter Challenge April 2019
 
 ## Gmail Clone
 [<img src="https://github.com/AbhiramReddyD/FlutterContest/blob/master/flutter.PNG" height="600" width="350">](https://github.com/AbhiramReddyD/FlutterContest)
-
-
-
-## Flutter Submission Under 5KB
-
-I'm a beginner in Flutter and I simply made a Gmail clone
-This was my Submission for the Flutter Challenge April 2019
-
-## Certificate earned for Flutter Subission
-[<img src="https://github.com/AbhiramReddyD/FlutterContest/blob/master/cert.png" height="450" width="600">](https://www.credential.net/ee83a799-2c07-49a7-a462-14f77de72c8f?key=62a1766e79231f8f05046b8b5a63a27fcbe98a4b0b181192e87f28818eb45be0)
-
-## Gmail Clone
-[<img src="https://github.com/AbhiramReddyD/FlutterContest/blob/master/flutter.PNG" height="600" width="350">](https://github.com/AbhiramReddyD/FlutterContest)
-
 
