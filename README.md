@@ -36,3 +36,37 @@ Topics covered in the Nanodegree program:
 **Thoughts:** This app gathers news from The Guardian news page, It's clean and simple
 
 [<img src="https://github.com/AbhiramReddyD/Android-Nanodegree/blob/master/images/news.jpg" height="600" width="300">](https://github.com/AbhiramReddyD/Android-Nanodegree/tree/master/News%20App)
+
+## 1. Android Apps with Java
+# My-Apps-In-Kotlin
+Basic apps I made while learning Kotlin each app made using new concept I learnt
+
+
+## One Plus Calcuator
+**Project Description:** A simple Calculator App
+**Android Tags:** User input and Interface
+**Thoughts:** I made an app just like one plus which on adding 1+ gives Never Settle
+
+[<img src="https://github.com/AbhiramReddyD/Apps-In-Kotlin/blob/master/images/calc.jpg" height="600" width="300">](https://github.com/AbhiramReddyD/Apps-In-Kotlin/tree/master/CalculatorKotlin)     [<img src="https://github.com/AbhiramReddyD/Apps-In-Kotlin/blob/master/images/calcu.jpg" height="600" width="300">](https://github.com/AbhiramReddyD/Apps-In-Kotlin/tree/master/CalculatorKotlin)
+
+## Movies List
+**Project Description:** Recycler View in Kotlin
+**Android Tags:** Lists and Recycler View
+**Thoughts:** Displays simple list of movies
+
+[<img src="https://github.com/AbhiramReddyD/Apps-In-Kotlin/blob/master/images/recycle.jpg" height="600" width="300">](https://github.com/AbhiramReddyD/Apps-In-Kotlin/tree/master/RecyclerView-Kotlin) 
+
+## Random Name Picker
+**Project Description:** A simple App with text input and a button
+**Android Tags:** User input
+**Thoughts:** Enter a name or a sigle name pick a random name I also added a few inbult
+
+[<img src="https://github.com/AbhiramReddyD/Apps-In-Kotlin/blob/master/images/name.jpg" height="600" width="300">](https://github.com/AbhiramReddyD/Apps-In-Kotlin/tree/master/NameRandom) 
+
+## Counter App
+**Project Description:** Hello Kotlin
+**Android Tags:** User Interface
+**Thoughts:** I made an simple counter app justs increases or decreases a number
+
+[<img src="https://github.com/AbhiramReddyD/Apps-In-Kotlin/blob/master/images/counter.jpg" height="600" width="300">](https://github.com/AbhiramReddyD/Apps-In-Kotlin/tree/master/HelloKotlin) 
+
