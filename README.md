@@ -1,5 +1,4 @@
 ## 1. Android Apps with Java
-***
 ## Android Basics Nanodegree by Google 
 
 <img src="https://github.com/AbhiramReddyD/Android-Nanodegree/blob/master/images/scholarship.jpg" height="400" width="400"> <img src="https://github.com/AbhiramReddyD/Android-Nanodegree/blob/master/images/nanodegree.jpg" height="400" width="400">
@@ -53,7 +52,6 @@ Topics covered in the Nanodegree program:
 [<img src="https://github.com/AbhiramReddyD/Android-Nanodegree/blob/master/images/news.jpg" height="600" width="300">](https://github.com/AbhiramReddyD/Android-Nanodegree/tree/master/News%20App)
 ***
 ## 1. Android Apps with Java
-***
 ## My-Apps-In-Kotlin
 Basic apps I made while learning Kotlin each app made using new concept I learnt
 
