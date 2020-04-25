@@ -86,7 +86,7 @@ Basic apps I made while learning Kotlin each app made using new concept I learnt
 
 ***
 
-## 3. App with Flutter
+## 3. Apps with Flutter
 ## Flutter Submission Under 5KB
 I'm a beginner in Flutter and I simply made a Gmail clone
 This was my Submission for the Flutter Challenge April 2019
