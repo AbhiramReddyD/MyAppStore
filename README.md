@@ -91,7 +91,7 @@ Basic apps I made while learning Kotlin each app made using new concept I learnt
 I'm a beginner in Flutter and I simply made a Gmail clone
 This was my Submission for the Flutter Challenge April 2019
 
-## Certificate earned for Flutter Subission
+## Certificate earned for Flutter Submission
 [<img src="https://github.com/AbhiramReddyD/FlutterContest/blob/master/cert.png" height="450" width="600">](https://www.credential.net/ee83a799-2c07-49a7-a462-14f77de72c8f?key=62a1766e79231f8f05046b8b5a63a27fcbe98a4b0b181192e87f28818eb45be0)
 
 ## Gmail Clone
