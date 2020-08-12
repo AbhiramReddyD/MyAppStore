@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Board</string>
+    <string name="app_name_long">Basketball Score Keeper</string>
+    <string name="credits">Image designed by Freepick: www.freepick.com</string>
+    <string name="team_A">Team A</string>
+    <string name="team_B">Team B</string>
+    <string name="fouls">Fouls: </string>
+    <string name="plus_2_points">+ 2 points</string>
+    <string name="plus_3_points">+ 3 points</string>
+    <string name="free_throw">Free throw</string>
+    <string name="foul">Foul</string>
+    <string name="reset">Reset</string>
+</resources>

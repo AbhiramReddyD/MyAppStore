@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="noInternet">Please check your Internet Connection</string>
+    <string name="searchHint">Keyword</string>
+    <string name="noNews">No news found</string>
+    <string name="welcome">Hello</string>
+    <string name="barInternet">Turn ON Mobile Data</string>
+    <string name="title">Article</string>
+    <string name="subtitle">Section</string>
+</resources>

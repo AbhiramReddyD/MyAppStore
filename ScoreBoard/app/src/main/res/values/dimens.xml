@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TextLarge">46sp</dimen>
+    <dimen name="MediumPadding">16dp</dimen>
+    <dimen name="SmallPadding">4dp</dimen>
+    <dimen name="SmallMargin">8dp</dimen>
+    <dimen name="ImageHeight">150dp</dimen>
+</resources>

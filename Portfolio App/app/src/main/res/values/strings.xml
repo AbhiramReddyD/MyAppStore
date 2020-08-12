@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StarTrek Dev</string>
+    <string name="title">StarTrek Android Developers</string>
+    <string name="adress"> Guntur, Andhra Pradesh India.</string>
+    <string name="webpage">www.startrek.dev</string>
+    <string name="about_us">About Us</string>
+    <string name="contact">email : startrek@dev \nphone : +9188888888</string>
+    <string name="about_us_content">We make your dream apps, we are experts in developing chat-bots and apps for small businesses in budget with complete user satisfaction.</string>
+</resources>

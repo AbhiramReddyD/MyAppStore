@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:background="@android:color/holo_blue_dark"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/holo_blue_dark"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:background="@android:color/holo_blue_dark">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="130dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="101dp"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingExtra="8sp"
+            android:text="@string/textview1"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="42sp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="151dp"
+            tools:layout_editor_absoluteY="131dp" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="167dp"
+            android:layout_height="38dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="68dp"
+            android:background="@android:color/holo_blue_light"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingExtra="8sp"
+            android:onClick="launchSecondActivity"
+            android:text="@string/button1"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="151dp"
+            android:layout_height="122dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="185dp"
+            android:contentDescription="@string/todo"
+            app:srcCompat="@drawable/fb" />
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

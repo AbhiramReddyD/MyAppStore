@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="88dp"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="@dimen/article_text_margin_horizontal"
+        android:layout_marginLeft="@dimen/article_text_margin_horizontal"
+        android:layout_marginRight="@dimen/article_text_margin_horizontal"
+        android:layout_marginStart="@dimen/article_text_margin_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/article_title_text_view"
+            style="@style/ArticleTextView"
+            android:layout_weight="2"
+            android:ellipsize="end"
+            android:gravity="bottom"
+            android:lines="2"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textStyle="bold"
+            tools:text="Ten Years review – a smoke grenade lobbed down Hong Kong's corridors of power" />
+
+        <LinearLayout
+            style="@style/ArticleTextView"
+            android:layout_weight="1"
+            android:gravity="top"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/section_name_text_view"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:ellipsize="end"
+                android:lines="1"
+                tools:text="Section: Film" />
+
+            <TextView
+                android:id="@+id/date_published_text_view"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="end"
+                tools:text="01.01.16" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

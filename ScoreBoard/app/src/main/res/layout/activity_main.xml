@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@android:color/holo_blue_light">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/MediumPadding"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ImageHeight"
+        android:src="@drawable/score"
+        android:scaleType="fitCenter"
+        android:layout_gravity="center_horizontal"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="@dimen/SmallPadding"
+                android:text="@string/team_A"/>
+
+            <TextView
+                android:id="@+id/team_a_score"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="@dimen/TextLarge"
+                android:padding="@dimen/SmallPadding"
+                android:text="0"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/plus_2_points"
+                android:onClick="onClick"
+                android:backgroundTint="@color/buttons"
+                android:textColor="@android:color/white"
+                android:id="@+id/A2"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/plus_3_points"
+                android:onClick="onClick"
+                android:backgroundTint="@color/buttons"
+                android:textColor="@android:color/white"
+                android:id="@+id/A3"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/free_throw"
+                android:onClick="onClick"
+                android:backgroundTint="@color/buttons"
+                android:textColor="@android:color/white"
+                android:id="@+id/A1"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="@dimen/SmallPadding"
+                android:text="@string/fouls"
+                android:id="@+id/text_foul_A_team"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/foul"
+                android:onClick="onClick"
+                android:backgroundTint="@color/buttons"
+                android:textColor="@android:color/white"
+                android:id="@+id/button_foul_A_team"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="@dimen/SmallPadding"
+                android:text="@string/team_B"/>
+
+            <TextView
+                android:id="@+id/team_b_score"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="@dimen/TextLarge"
+                android:padding="@dimen/SmallPadding"
+                android:text="0"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/plus_2_points"
+                android:onClick="onClick"
+                android:backgroundTint="@color/buttons"
+                android:textColor="@android:color/white"
+                android:id="@+id/B2"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/plus_3_points"
+                android:onClick="onClick"
+                android:backgroundTint="@color/buttons"
+                android:textColor="@android:color/white"
+                android:id="@+id/B3"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/free_throw"
+                android:onClick="onClick"
+                android:backgroundTint="@color/buttons"
+                android:textColor="@android:color/white"
+                android:id="@+id/B1"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="@dimen/SmallPadding"
+                android:text="@string/fouls"
+                android:id="@+id/text_foul_B_team"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/foul"
+                android:onClick="onClick"
+                android:backgroundTint="@color/buttons"
+                android:textColor="@android:color/white"
+                android:id="@+id/button_foul_B_team"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/reset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/SmallMargin"
+        android:text="@string/reset"
+        android:onClick="onClick"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:textColor="@android:color/white"
+        android:padding="@dimen/SmallPadding"/>
+
+</LinearLayout>
+
+</ScrollView>

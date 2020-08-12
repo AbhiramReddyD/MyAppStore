@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Group Data</string>
+    <string name="textview1">Facebook  Group \nData</string>
+    <string name="button1">LOGIN</string>
+    <string name="todo">TODO</string>
+    <string name="hello_card">Hello Card</string>
+    <string name="todo1">TODO</string>
+</resources>
