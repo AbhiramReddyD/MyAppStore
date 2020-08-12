@@ -16,7 +16,7 @@
 
 ## [Gmail Clone] Flutter App under 5KB for Flutter Submission
 ### Can you believe that an app can be made under 5 Kilobytes ?, of course, it's just a UI clone and it was sucessful submission btw Flutter was a lot of fun to work with 
-<img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/cert.png" height="350" width="460"><img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/flutter.PNG" height="350" width="200">
+<img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/cert.png" height="400" width="560"><img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/flutter.PNG" height="400" width="230">
 
 ## [Instagram UI Clone Koltin] 
 ### I loved coding in Kotlin after Java, less boiler-plate and errors makes it easier to build apps with Kotlin 
