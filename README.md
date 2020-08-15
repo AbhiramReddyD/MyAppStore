@@ -3,6 +3,8 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+## [📹Watch Demo Video of All Apps📱](https://youtu.be/Sl31hgcGEkU)
+
 ## Android Basics Nanodegree by Google 
 
 <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/scholarship.jpg" height="400" width="400"> <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/nanodegree.jpg" height="400" width="400">
@@ -46,4 +48,3 @@
 **Thoughts:** This app gathers news from The Guardian news page, It's clean and simple
 
 <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/news.jpg" height="600" width="300">
-
