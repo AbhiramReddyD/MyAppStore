@@ -4,9 +4,9 @@
 
 ## [📹Watch Demo Video of All Apps📱](https://youtu.be/Sl31hgcGEkU)
 
-## Android Basics Nanodegree by Google 
+## Android Basics by Google 
 
-<img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/scholarship.jpg" height="300" width="300"> <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/nanodegree.jpg" height="300" width="300">
+<img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/scholarship.jpg" height="300" width="310">
 
 ## Topics covered in the Nanodegree program: 
 - **User Interface** - You will learn how to build screens, layouts and have a good layout for the app
