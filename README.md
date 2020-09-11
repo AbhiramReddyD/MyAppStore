@@ -1,7 +1,4 @@
 # Android App Projects
-[![Generic badge](https://img.shields.io/badge/BUILD-PASSING-<COLOR>.svg)](https://shields.io/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-
 ## [📹Watch Demo Video of All Apps📱](https://youtu.be/Sl31hgcGEkU)
 
 ## Android Basics by Google 
