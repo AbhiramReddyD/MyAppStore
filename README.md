@@ -1,7 +1,9 @@
 # Android App Projects
+
+## [👉Read Blog Post📰](https://matrixread.com/5-android-app-projects-for-beginners/)
 ## [📹Watch Demo Video of All Apps📱](https://youtu.be/Sl31hgcGEkU)
 
-## Android Basics by Google 
+## Android Basics Challenge by Google 
 
 <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/scholarship.jpg" height="300" width="310">
 
