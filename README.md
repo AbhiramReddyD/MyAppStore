@@ -1,7 +1,7 @@
 # Android App Projects
 
-## [👉Read Blog Post📰](https://matrixread.com/5-android-app-projects-for-beginners/)
-## [📹Watch Demo Video of All Apps📱](https://youtu.be/Sl31hgcGEkU)
+### [👉Read Blog Post📰](https://matrixread.com/5-android-app-projects-for-beginners/) Explanation
+### [📹Watch Demo Video of All Apps📱](https://youtu.be/Sl31hgcGEkU)
 
 ## Android Basics Challenge by Google 
 
