@@ -29,21 +29,17 @@ I loved coding in Kotlin after Java, less boiler-plate and errors makes it easie
 
 ## 3. Feed App
 * Blog Facebook Group Feed
-**Project Description:** An app with two activities and Recycler View
-
-**Android Tags:** Multi-screen App
-
-**Thoughts:** I made an app which shows posts from a blog or page and displays them as cards here it shows posts from my old wordpress blog.
+* Android Tags: Multi-screen App
+* Project Description: An app with two activities and Recycler View
+* Thoughts: I made an app which shows posts from a blog or page and displays them as cards here it shows posts from my old wordpress blog.
 
 <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/group.jpg" height="600" width="300"> <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/feed.jpg" height="600" width="300">
 
 ## 4. News App
 * News App using The Guardian API
-**Project Description:** A news app gathering live news.
-
-**Android Tags:** Networking
-
-**Thoughts:** This app gathers news from The Guardian news page, It's clean and simple
+* Android Tags: Networking
+* Project Description: A news app gathering live news.
+* Thoughts: This app gathers news from The Guardian news page, It's clean and simple
 
 <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/news.jpg" height="600" width="300">
 
