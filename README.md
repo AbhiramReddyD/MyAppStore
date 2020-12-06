@@ -1,16 +1,16 @@
-# Android App Projects
+# Android Basics Challenge Submission
 
-### [👉Read Blog Post📰](https://matrixread.com/5-android-app-projects-for-beginners/) Explanation
-### [📹Watch Demo](https://youtu.be/Sl31hgcGEkU) Video of All Apps📱
+- Android Basics challenge by Google [IN,2018]
+- [👉Read Blog Post📰](https://matrixread.com/5-android-app-projects-for-beginners/) Explanation
+- [📹Watch Demo](https://youtu.be/Sl31hgcGEkU) Video of All Apps📱
 
-## Android Basics Challenge by Google 
 
 <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/scholarship.jpg" height="300" width="310">
 
-## Topics covered in the Nanodegree program: 
-- **User Interface** - You will learn how to build screens, layouts and have a good layout for the app
-- **User Input** - You will learn how to make your apps interactive.
-- **MultiScreen Apps** - The more screen you have, the more possibilities you discover. You will learn about switching among different screens, activities and fragments. 
+## Topics covered in the program: 
+- **User Interface** - Learn how to build screens, layouts and have a good layout for the app
+- **User Input** - Learn how to make your apps interactive.
+- **MultiScreen Apps** - The more screen we have, the more possibilities you discover. We will learn about switching among different screens, activities and fragments. 
 - **Networking** - There are a huge amount of available API-s all over the internet, with the help of them you can build apps with dynamic content. You will learn about HTTP requests, JSON Parsing and threads.
 
 
