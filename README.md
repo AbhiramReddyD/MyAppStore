@@ -50,4 +50,6 @@ Got the Scholarship Yay!!! 🥳
 
 <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/profile.jpg" height="500" width="250"> <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/score.jpg" height="500" width="250"> <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/calcu.jpg" height="500" width="250">
 
-****
+## 📜 LICENSE
+
+[MIT](https://github.com/abhiramready/Android-App-Projects/blob/master/LICENSE)
