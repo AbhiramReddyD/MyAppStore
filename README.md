@@ -4,11 +4,11 @@
 - [Watch Demo📹](https://youtu.be/Sl31hgcGEkU) of All Apps📱
 - [Read Blog Post📰](https://matrixread.com/5-android-app-projects-for-beginners/)
 
-Got the Scholarship Yay!!! 🥳
+🥳 Got the Scholarship Yay!!! 
 
 <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/scholarship.jpg" height="300" width="310" caption="">
 
-##🎯 Topics covered in the program: 
+## 🎯 Topics covered in the program: 
 - **User Input** - Learn how to make your apps interactive.
 - **User Interface** - Learn how to build screens, layouts and have a good layout for the app
 - **MultiScreen Apps** - The more screen we have, the more possibilities you discover. Learn switching among different screens, activities and fragments. 
