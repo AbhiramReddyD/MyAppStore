@@ -49,3 +49,5 @@ Got the Scholarship Yay!!! 🥳
 \- Portfolio App | Score Board App | Calcuator App
 
 <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/profile.jpg" height="500" width="250"> <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/score.jpg" height="500" width="250"> <img src="https://github.com/AbhiramReddyD/Android-App-Projects/blob/master/images/calcu.jpg" height="500" width="250">
+
+****
